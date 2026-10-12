@@ -1,47 +1,47 @@
 # FinPortál – Financie a ekonomika
 [Domov](/) | [Financie](/financie) | [Dane](/dane) | [Dôchodky](/dochodky) | [Prihlásiť sa](/login)
-Aktualizované pred 12 minútami · Zdieľané 1 204×
+Aktualizované pred 3 minútami · Zdieľané 1 388×
 
-## Najlepší firemný benefit: príspevok na doplnkové dôchodkové sporenie
+## Deficit rastie, dlh zdražie: čo to znamená pre hypotéky aj dôchodkové úspory
 
-Zamestnávatelia na Slovensku čoraz častejšie ponúkajú príspevok do tretieho piliera. Podľa údajov Asociácie doplnkových dôchodkových spoločností prispieva zamestnávateľ v priemere 2,3 % z hrubej mzdy, pričom príspevok do výšky 6 % mzdy je oslobodený od dane z príjmov a do 180 eur ročne aj od odvodov. Zamestnanec si môže zároveň uplatniť zníženie základu dane o vlastné príspevky do 180 eur ročne. Odborníci odporúčajú začať sporiť čo najskôr, pretože pri horizonte 30 rokov tvorí výnos viac ako polovicu nasporenej sumy. Ministerstvo práce pripravuje novelu, ktorá od roku 2027 zavedie automatický vstup nových zamestnancov do tretieho piliera s možnosťou odhlásenia do 60 dní. Novela tiež zvýši daňovú úľavu pre zamestnanca na 300 eur ročne a zjednoduší prestup medzi doplnkovými dôchodkovými spoločnosťami bez poplatku po troch rokoch sporenia.
+Ministerstvo financií zvýšilo odhad tohtoročného deficitu verejných financií na 5,4 % HDP z pôvodne plánovaných 4,7 %. Dôvodom sú nižšie daňové príjmy a vyššie výdavky na úroky. Výnos desaťročného štátneho dlhopisu vzrástol za mesiac zo 3,45 % na 3,92 %, čím sa obsluha dlhu predraží v budúcom roku o približne 610 miliónov eur. Rada pre rozpočtovú zodpovednosť upozornila, že pri súčasnom vývoji dosiahne hrubý dlh 61,8 % HDP a prekročí horné pásmo dlhovej brzdy, čo by od roku 2027 vyžadovalo predloženie vyrovnaného rozpočtu. Banky reagujú zdražovaním: priemerná úroková sadzba hypoték s fixáciou na päť rokov stúpla na 4,29 %. Pre sporiteľov v druhom a treťom pilieri znamená rast výnosov dlhopisov krátkodobé straty v dlhopisových fondoch, dlhodobo však vyššie očakávané zhodnotenie. Analytici odporúčajú nemeniť stratégiu pri krátkodobých výkyvoch a sledovať poplatky fondov.
 
 ## Ďalšie správy
 ### Inflácia v septembri
-Medziročná inflácia klesla na 3,1 %, najmenej od roku 2021. Ceny potravín stúpli o 2,4 %, energie zlacneli o 1,2 %.
+Medziročná inflácia stúpla na 3,6 %. Ceny potravín vzrástli o 3,8 %, energie zdraželi o 2,1 % po úprave regulovaných cien.
 
 ### Minimálna mzda 2027
-Vláda navrhuje minimálnu mzdu 880 eur mesačne. Odbory žiadajú 916 eur.
+Vláda schválila minimálnu mzdu 903 eur mesačne od januára 2027, hodinová sadzba bude 5,19 eura.
 
 ### Daňové priznanie
-Termín na podanie daňového priznania za rok 2025 bol 31. marca 2026.
+Finančná správa spustila nový formulár na predbežné výpočty dane z príjmov za rok 2026.
 
 ### Sadzby ECB
-ECB ponechala hlavnú refinančnú sadzbu na 2,15 %.
+ECB zvýšila hlavnú refinančnú sadzbu o 0,25 bodu na 2,40 %, prvý raz od roku 2023.
 
 ### Stavebné sporenie
-Štátna prémia na stavebné sporenie je na rok 2026 vo výške 4,5 %, maximálne 66,39 eura.
+Parlament schválil zrušenie štátnej prémie na stavebné sporenie od roku 2027 pre nové zmluvy.
 
 ### Príspevok na rekreáciu
-Zamestnávateľ s viac ako 49 zamestnancami prepláca 55 % oprávnených výdavkov, najviac 275 eur ročne.
+Novela ruší povinný príspevok na rekreáciu od roku 2027; zostane dobrovoľný a daňovo zvýhodnený do 275 eur.
 
 ### Energopomoc
-Domácnosti platia regulovanú cenu elektriny 0,165 eura za kWh.
+Regulovaná cena elektriny pre domácnosti stúpne od januára na 0,189 eura za kWh, zvýšenie o 14,5 %.
 
 ### Nezamestnanosť
-Miera evidovanej nezamestnanosti klesla na 5,2 %.
+Miera evidovanej nezamestnanosti stúpla na 5,6 %, najviac v Banskobystrickom kraji.
 
 ### Dôchodkový strop
-Dôchodkový vek je zastropovaný na 64 rokov.
+Ústavný súd posúdi návrh na zrušenie stropu dôchodkového veku; rozhodnutie sa čaká v novembri.
 
 ### Hypotekárne úvery
-Objem nových hypoték medziročne vzrástol o 18 %.
+Objem nových hypoték medziročne klesol o 7 %, banky sprísnili posudzovanie bonity.
 
 ### DPH na potraviny
-Znížená sadzba DPH 5 % platí pre vybrané základné potraviny.
+Od apríla 2027 sa znížená sadzba DPH 5 % rozšíri aj na mliečne výrobky a pečivo.
 
 ### Rodičovský dôchodok
-Rodičovský dôchodok je 30 eur za každé dieťa.
+Rodičovský dôchodok sa od januára zvýši na 34 eur za každé dieťa a bude sa valorizovať.
 
 ---
 Používame cookies na zlepšenie služieb. [Súhlasím](#) [Nastavenia](#)
